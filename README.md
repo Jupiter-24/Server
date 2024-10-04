@@ -52,6 +52,7 @@ PORT=5000
 ├── .gitignore              # Files to ignore in git
 ├── package.json            # Root package.json
 └── README.md               # Documentation`
+`
 
 ##Installation
 
