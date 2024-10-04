@@ -33,27 +33,6 @@ MONGO_URI=mongodb://localhost:27017/your_database_name
 PORT=5000
 ```
 
-`project-template/
-├── client/                 # React frontend
-│   ├── public/             # Public assets for React
-│   ├── src/                # Source files for React
-│   │   ├── components/     # Reusable components
-│   │   ├── pages/          # Page components
-│   │   ├── App.js          # Main app component
-│   │   └── index.js        # Entry point for React
-├── server/                 # Node.js backend
-│   ├── config/             # Configuration files (like MongoDB setup)
-│   ├── controllers/        # Route controllers
-│   ├── models/             # Mongoose models
-│   ├── routes/             # Express routes
-│   ├── app.js              # Main Express app
-│   ├── server.js           # Server entry point
-├── .env                    # Environment variables
-├── .gitignore              # Files to ignore in git
-├── package.json            # Root package.json
-└── README.md               # Documentation`
-`
-
 ##Installation
 
 ## Clone the Repo
